@@ -1,0 +1,19 @@
+{
+  "name": "tamrin-divarr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@persian-tools/persian-tools": "^3.2.1",
+    "cheerio": "^1.0.0-rc.10",
+    "debug": "^4.3.3",
+    "got": "^11.8.3",
+    "helmet": "^4.6.0",
+    "joi": "^17.5.0"
+  }
+}
